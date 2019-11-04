@@ -1,12 +1,12 @@
 #tausta {
-  background-color: white;
+  background-color: rgb(200, 7, 7);
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
 }
-.col.s1 {
-  border: 1px solid #eee;
+.col {
+  border: 1px solid rgb(156, 10, 10);
   margin: 7px 0;
   text-align: center;
   line-height: 50px;
@@ -15,6 +15,13 @@
   background-color: #ffc107;
   padding: 0;
   height: 20px;
+}
+.testilk {
+  width: 20px;
+  height: 30px;
+  background-color: rgb(170, 1, 1);
+  border: 1px black solid;
+  padding: 20px;
 }
 #pohja {
   width: 320px;
@@ -32,6 +39,7 @@
   font-size: 40px;
   font-family: "Helvetica";
   padding-left: 5%;
+  color: #ffc107;
 }
 #pelaajan {
   font-size: 20px;
