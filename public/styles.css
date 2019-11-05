@@ -56,7 +56,7 @@
 #board {
   border: 1px black solid;
   border-collapse: collapse;
-  background-color: black;
+  background-color: rgb(227, 227, 227);
 }
 
 .voittoväri {
